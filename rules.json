@@ -1,1 +1,16 @@
+{
+  "pdf": "PDFs",
+  "png": "Images",
+  "jpg": "Images",
+  "jpeg": "Images",
+  "gif": "Images",
+  "zip": "Archives",
+  "rar": "Archives",
+  "7z": "Archives",
+  "txt": "Text",
+  "csv": "Data",
+  "py": "Code",
+  "cpp": "Code",
+  "h": "Code"
+}
 
